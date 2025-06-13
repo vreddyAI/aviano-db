@@ -4,6 +4,8 @@
 
 -- Aviano ERD 
 
+-- Add a new line for testing
+
 -- MySQL Workbench Forward Engineering
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
